@@ -2,7 +2,7 @@
 
 
 🔭 I’m currently working on being a Data Scientist / Machine Learning Engineer currently wrapping up their time at @LambdaSchool. 
-I am now searching the :earth_americas: (more specifically Seattle/WA) for exciting job opportunities that will specifically allow me to work with brilliant individuals at a daring tech company. I am completely enamoured with artificial intelligence, machine learning, evolutionary biology and the Theory of Mind. I relish every opportunity to read more philosophy regarding intelligence and the nature of thought.
+I am now searching the :earth_americas: (more specifically Seattle/WA) for exciting job opportunities that will specifically allow me to work with brilliant individuals at a daring tech company. I am completely enamored with artificial intelligence, machine learning, evolutionary biology and the Theory of Mind. I relish every opportunity to read more philosophy regarding intelligence and the nature of thought.
 
 I have worked very hard to acquire some skills in Pythonic code, algorithms, data structures, machine learning and neural networks. Over the last several, intensive months, I have explored data, how to engineer and shape it, and how to run that through various models for predictions. The questions we can ask with data are deeply fascinating.
 
